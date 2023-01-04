@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login Page</string>
+    <string name="hii">hii</string>
+    <string name="todo">TODO</string>
+    <string name="hh">TODO</string>
+    <string name="log_in_now">Log In Now</string>
+    <string name="please_login_to_use_our_app">Please login to use our app</string>
+    <string name="email">EMAIL</string>
+    <string name="password">PASSWORD</string>
+</resources>
